@@ -1,0 +1,20 @@
+.blog{
+    color: red;
+}
+p{
+    color: blue;
+}
+h3{
+    text-align: center;
+    color: cornflowerblue;
+    background-color: coral;
+    width: 500px;
+    margin-left: 220px;
+    border: 20px solid red;
+    box-shadow: 10px 10px 40px 3px rgb(42, 133, 15);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    height:400px ;
+    background-image: url('sami.jpg');
+}
